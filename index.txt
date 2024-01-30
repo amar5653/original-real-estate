@@ -7,7 +7,7 @@ This is a realestate website devloped by Amarpreet
 
 #---------- HEADER ----------#
 
-alt = logo
+alt = victoryHome
 
 Home
 Rent
